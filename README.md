@@ -3,8 +3,8 @@
 
 **Utilize o MinHook ou Detours para realizar o intercept/jump das funções. O exemplo acima não está completo, mostrando apenas o arquivo Main da biblioteca.**
 
-## Contact
-------------
+## 💌 Contact
+
 **Caso queira me contatar ou precise de algum serviço, me encontre nas seguintes plataformas:**
 
 **Discord User: 4wj.**
